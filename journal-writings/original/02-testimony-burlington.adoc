@@ -1,3 +1,4 @@
+[#testimony-burlington.style-blurb, short="Testimony of Burlington Friends"]
 == A Testimony of the Monthly Meeting of Friends, held in Burlington, the 1st day of the eighth month, in the year of our Lord, 1774, concerning our esteemed friend, John Woolman, deceased.
 
 He was born in Northampton, in the county of Burlington, and province of West New Jersey,
@@ -102,6 +103,9 @@ at the foot of a list of the members of that meeting,
 made about five years before his death,
 we find in his hand writing the following observation and reflections.
 
+[.embedded-content-document]
+--
+
 As looking over the minutes made by persons who have put off this body,
 hath sometimes revived in me a thought how ages pass away;
 so this list may probably revive a like thought in some,
@@ -112,7 +116,10 @@ he hath helped me out of grievous entanglements;
 he remains to be the strength of my life; to whom I desire to devote myself in time,
 and in eternity.
 
+[.signed-section-signature]
 Signed, John Woolman.
+
+--
 
 In the twelfth month, 1771,
 he acquainted this meeting that he found his mind drawn
