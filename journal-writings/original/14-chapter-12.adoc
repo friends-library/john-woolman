@@ -1,11 +1,12 @@
 == Chapter XII.
 
-Attends the Yearly Meeting in London--proceeds towards Yorkshire,
-visiting several Quarterly and other meetings in the counties of Hertford, Warwick,
-Oxford, Nottingham, York, and Westmoreland; and thence again into Yorkshire,
-and to the city of York--Some instructive thoughts and observations--
-letters on divers subjects--Hears of the decease of William Hunt;
-some account of him--Sickness at York; and death there.
+[.chapter-synopsis]
+* Attends the Yearly Meeting in London
+* Proceeds towards Yorkshire, visiting several Quarterly and other meetings in the counties of Hertford, Warwick, Oxford, Nottingham, York, and Westmoreland; and from there again into Yorkshire, and to the city of York
+* Some instructive thoughts and observations
+* Letters on several subjects
+* Hears of the decease of William Hunt; some account of him
+* Sickness at York; and death there.
 
 On the 8th day of the sixth month, 1772, we landed at London;
 and I went straightway to the Yearly Meeting of ministers and elders,
@@ -227,6 +228,10 @@ I believe it safest for me to commit it to writing.
 The 30th day of the month.
 This morning I wrote a letter, in substance as follows;
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`Beloved friend,
 
 "`My mind is often affected as I pass along,
@@ -263,9 +268,13 @@ and feel a care, that we may be so separated to the Gospel of Christ,
 that those things which proceed from the spirit of this world,
 may have no place amongst us.
 
+[.signed-section-closing]
 "`Thy friend,
 
-"`John Woolman.`"
+[.signed-section-signature]
+John Woolman
+
+--
 
 I rested a few days, in body and mind, with our friend Jane Crosfleld,
 who was once in America: was on the sixth day of the week, at Kendal in Westmoreland;
@@ -422,9 +431,6 @@ where we may have no desire, but to follow Christ and be with him;
 that when he is under suffering we may suffer with him;
 and never desire to rise up in dominion,
 but as he by the virtue of his own spirit may raise us.
-
-[.asterism]
-'''
 
 A few days after writing these considerations,
 our dear friend in the course of his religious visit, came to the city of York,
@@ -584,7 +590,5 @@ which continued about half an hour, when seeming to awake,
 he breathed a few times with more difficulty, and expired without sigh, groan,
 or struggle.
 
-End of Journal
-
-[.asterism]
-'''
+[.the-end]
+END OF THE JOURNAL

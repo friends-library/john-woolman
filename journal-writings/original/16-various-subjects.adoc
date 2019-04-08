@@ -1,10 +1,16 @@
-== Considerations on Pure Wisdom and Human Policy; On Labour; On Schools; and On the Right Use of the Lord`'s Outward Gifts.
 
-First Printed In The Year 1768.
+[#various, short="Considerations on Various Subjects"]
+== Considerations on the Pure Wisdom and Human Policy; on Labor, on schools; and on the Right Use of the Lord`'s Outward Gifts.
 
-"`The wisdom that is from above, is first pure, then peaceable, gentle,
-and easy to be entreated, full of mercy and good fruits, without partiality,
-and without hypocrisy.`" James 3:17.
+[.chapter-subtitle--blurb]
+First Printed in the Year 1768
+
+[quote.scripture, , James 3:17]
+____
+"`The wisdom that is from above, is first pure, then peaceable,
+gentle, and easy to be entreated, full of mercy and good fruits,
+without partiality, and without hypocrisy.`"
+____
 
 === Introduction
 
@@ -164,7 +170,7 @@ and in this humble confidence in his wisdom, goodness and power,
 the righteous find a refuge in adversities, superior to the greatest outward help,
 and a comfort more certain than any worldly advantages can afford.
 
-=== On Labour.
+=== On Labour
 
 Having from my childhood been used to bodily labour for a living,
 I may express my experience therein.
@@ -274,10 +280,12 @@ what disagreeable thoughts must they have of the professed followers
 of Jesus! and how must their groans ascend to that Almighty Being,
 who "`will be a refuge for the oppressed.`"
 
-=== On Schools.
+=== On Schools
 
-"`Suffer little children to come unto me, and forbid them not,
-for of such is the kingdom of God.`" Mark 10:14.
+[quote.scripture, , Mark 10:14]
+____
+"`Suffer little children to come unto me, and forbid them not, for of such is the kingdom of God.`"
+____
 
 To encourage children to do things with a view to get the praise of men,
 to me appears an obstruction to their being inwardly acquainted with the Spirit of Truth.
@@ -366,7 +374,7 @@ and all unite in humbly seeking to the Lord, he would graciously instruct us,
 and strengthen us,
 to relieve the youth from various snares in which many of them are entangled.
 
-=== On the Right Use of the Lord`'s Outward gifts.
+=== On the Right Use of the Lord`'s Outward gifts
 
 As our understandings are opened by the pure light,
 we experience that through an inward approaching to God,
