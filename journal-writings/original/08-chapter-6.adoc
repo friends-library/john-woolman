@@ -1,14 +1,12 @@
 == Chapter VI.
 
-His visiting the Quarterly Meetings in Chester county;
-and afterwards joining with Daniel Stanton and John Scarborough,
-in a visit to such as kept slaves there--Some observations on the
-conduct those should maintain who are concerned to speak in meetings
-for discipline--Several visits to such who kept slaves:
-and to Friends near Salem--Some account of the Yearly Meeting in the year 1759;
-and of the increasing concern, in divers provinces,
-to labour against buying and keeping slaves--The Yearly Meeting
-epistle--His thoughts on the small-pox spreading--and on inoculation.
+[.chapter-synopsis]
+* His visiting the Quarterly Meetings in Chester county; and afterwards joining with Daniel Stanton and John Scarborough, in a visit to such as kept slaves there
+* Some observations on the conduct those should maintain who are concerned to speak in meetings for discipline
+* Several visits to such who kept slaves: and to Friends near Salem
+* Some account of the Yearly Meeting in the year 1759; and of the increasing concern, in several provinces, to labor against buying and keeping slaves
+* The Yearly Meeting epistle
+* His thoughts on the small-pox spreading and on inoculation.
 
 On the 11th day of the eleventh month, in the year 1758, I set out for Concord;
 the Quarterly Meeting heretofore held there, was now,
@@ -178,11 +176,13 @@ Great is the goodness of the Lord toward his poor creatures.
 An epistle went forth from this Yearly Meeting,
 which I think good to give a place in this journal; being as follows:
 
-"`From the Yearly Meeting held at Philadelphia, for Pennsylvania and New Jersey,
-from the 22nd day of the ninth month, to the 28th day of the same, inclusive, 1759.
+[.embedded-content-document.epistle]
+--
 
-"`To the Quarterly and Monthly Meetings of Friends belonging to the said Yearly Meeting.
+[.blurb]
+=== "`From the Yearly Meeting held at Philadelphia, for Pennsylvania and New Jersey, from the 22nd day of the ninth month, to the 28th day of the same, inclusive, 1759. To the Quarterly and Monthly Meetings of Friends belonging to the said Yearly Meeting.
 
+[.salutation]
 "`Dearly beloved friends and brethren,
 
 "`In an awful sense of the wisdom and goodness of the Lord our God,
@@ -350,9 +350,14 @@ whatsoever things are pure, whatsoever things are lovely,
 whatsoever things are of good report; if there be any virtue, if there be any praise,
 think on these things and do them, and the God of peace shall be with you.`'`"
 
+[.signed-section-signature]
 "`Signed by appointment, and on behalf of our said meeting, by seven Friends.`"
 
-On the 28th day of the eleventh month, in the year 1759,
+[.signed-section-context-close]
+On the 28th day of the eleventh month, in the year 1759
+
+--
+
 I was at the Quarterly Meeting in Bucks county.
 This day being the meeting of ministers and elders,
 my heart was enlarged in the love of Jesus Christ;

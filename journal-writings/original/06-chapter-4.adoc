@@ -1,11 +1,11 @@
 == Chapter IV.
 
-His visiting the families of Friends at Burlington--His journey to Pennsylvania,
-Maryland, Virginia and North Carolina--Considerations on the state of Friends there,
-and the exercise he was under in travelling among those concerned in keeping slaves:
-with some observations on this subject--His epistle to Friends
-at New Garden and Cane creek--His thoughts on the neglect of a
-religious care in the education of the negroes.
+[.chapter-synopsis]
+* His visiting the families of Friends at Burlington
+* His journey to Pennsylvania, Maryland, Virginia and North Carolina
+* Considerations on the state of Friends there, and the exercise he was under in traveling among those concerned in keeping slaves: with some observations on this subject
+* His epistle to Friends at New Garden and Cane creek
+* His thoughts on the neglect of a religious care in the education of the negroes
 
 The 13th day of the second month, in the year 1757, being then in good health,
 and abroad with Friends visiting families, I lodged at a Friend`'s house in Burlington;
@@ -382,8 +382,13 @@ and it was a strengthening opportunity to the honest-hearted.
 About this time I wrote an epistle to Friends in the back settlements of North Carolina,
 as follows:
 
-To Friends at their Monthly Meeting at New Garden and Cane creek, in North Carolina.
+[.embedded-content-document.epistle]
+--
 
+[.letter-heading]
+To Friends at their Monthly Meeting at New Garden and Cane Creek, in North Carolina.
+
+[.salutation]
 Dear Friends,
 
 It having pleased the Lord to draw me forth on a
@@ -485,7 +490,10 @@ you may find true peace and satisfaction.
 If the Lord be our God, in truth and reality, there is safety for us;
 for he is a strong hold in the day of trouble, and knoweth them that trust in him.
 
+[.signed-section-context-close]
 Isle of Wight county, in Virginia, 29th of the Fifth month, 1757.
+
+--
 
 From the Yearly Meeting in Virginia, I went to Carolina;
 and on the 1st day of the sixth month, was at Wells Monthly Meeting,

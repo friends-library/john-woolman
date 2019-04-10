@@ -385,11 +385,14 @@ but through the goodness of the Lord, Truth, I believe, gained some ground;
 and it was a strengthening opportunity to the honest-hearted.
 
 About this time I wrote an epistle to Friends in the back settlements of North Carolina,
-as follows: To Friends at their Monthly Meeting at New Garden and Cane creek,
-in North Carolina.
+as follows:
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
+
+[.letter-heading]
+To Friends at their Monthly Meeting at New Garden and Cane Creek,
+in North Carolina.
 
 [.salutation]
 Dear Friends,
