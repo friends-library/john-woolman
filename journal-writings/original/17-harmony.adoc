@@ -6,7 +6,7 @@ First Printed In The Year 1770.
 as the showers upon the grass, that tarrieth not for man,
 nor waiteth for the sons of men.`" Micah 5:7.
 
-=== Introduction.
+=== Introduction
 
 As mankind, though descended from one parent, are divided into many families,
 and as trading to sea is greatly increased within a few ages past;
@@ -22,7 +22,8 @@ some feel to be more precious than any other treasure.
 
 === Considerations On True Harmony.
 
-=== Chapter I. / On serving the Lord in our outward employments.
+[.old-style]
+=== Chapter I / On serving the Lord in our outward employments.
 
 Under the humbling dispensations of the Father of mercies,
 I have felt an inward labour for the good of my fellow creatures,
@@ -259,7 +260,8 @@ and members of Christ; be ashamed therefore to think, speak, or do any thing uns
 for God`'s children and the members of Christ.`"
 Fox`'s Acts and Monuments, page 1177.
 
-=== Chapter II.On the example of Christ.
+[.old-style]
+=== Chapter II / On the example of Christ.
 
 My mind has been brought into a brotherly feeling with the poor,
 as to the things of this life,
@@ -379,7 +381,8 @@ that the wisdom from above may shine forth in their living,
 as a light by which others may be instrumentally helped on their way,
 in the true harmonious walking.
 
-=== Chapter III.On Merchandising.
+[.old-style]
+=== Chapter III / On Merchandising.
 
 Where the treasures of pure love are opened,
 and we obediently follow Him who is the light of life, the mind becomes chaste;
@@ -647,7 +650,8 @@ O that we may lay to heart the condition of the present time,
 and humbly follow His counsel,
 who alone is able to prepare the way for a true harmonious walking amongst mankind.
 
-=== Chapter IV. Divine admonitions.
+[.old-style]
+=== Chapter IV / Divine admonitions.
 
 Such are the perfections of our heavenly Father,
 that in all the dispensations of his providence, it is our duty, "`in everything,
