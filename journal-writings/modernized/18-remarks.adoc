@@ -4,7 +4,7 @@
 First Printed in the Year 1773
 
 [.old-style]
-=== Chapter I. / On Loving Our Neighbors As Ourselves.
+=== Chapter I / On Loving Our Neighbors As Ourselves.
 
 When we love the Lord with all our hearts, and his creatures in his love,
 we are then preserved in tenderness both toward mankind and the animal creation;
@@ -1188,7 +1188,7 @@ with desires that their difficulties may not be increased
 through unfaithfulness in us of the present age.
 
 [.old-style]
-=== Chapter II. / On a Sailor`'s life.
+=== Chapter II / On a Sailor`'s life.
 
 In the trade to Africa for slaves, and in the management of ships going on these voyages,
 many of our lads and young men have a considerable part of their education.
@@ -1304,7 +1304,7 @@ entangled in a multitude of unnecessary concerns,
 that they think but little of the hardships which the poor people go through.
 
 [.old-style]
-=== Chapter III. / On Silent Worship.
+=== Chapter III / On Silent Worship.
 
 Worship in silence has often been refreshing to my mind,
 and a care attends me that a young generation may feel the nature of this worship.
