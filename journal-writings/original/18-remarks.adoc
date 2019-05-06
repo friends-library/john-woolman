@@ -1,5 +1,6 @@
 == Remarks On Sundry Subjects.
 
+[.chapter-subtitle--blurb]
 First Printed In London, 1773.
 
 [.old-style]
@@ -343,6 +344,9 @@ they are made to labour in a manner more servile and constant,
 than that which they were used to at home, that with grief,
 with different diet from what has been common with them, and with hard labour,
 some thousands are computed to die every year, in what is called the seasoning.
+
+[quote]
+____
 
 +++[+++Note from the Editors of the original Friend`'s Library:
 In perusing the writings of this worthy man,
@@ -892,6 +896,8 @@ in no small degree in the guilt of the traffic,
 it being well ascertained that American vessels, American capital and American citizens,
 are employed in its prosecution.
 -End of Editor`'s note.]
+
+____
 
 Thus it appears evident,
 that great numbers of these people are brought every year to an untimely end;

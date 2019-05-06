@@ -1,11 +1,12 @@
 == Chapter XII.
 
-Attends the Yearly Meeting in London--proceeds towards Yorkshire,
-visiting several Quarterly and other meetings in the counties of Hertford, Warwick,
-Oxford, Nottingham, York, and Westmoreland; and thence again into Yorkshire,
-and to the city of York--Some instructive thoughts and observations--
-letters on divers subjects--Hears of the decease of William Hunt;
-some account of him--Sickness at York; and death there.
+[.chapter-synopsis]
+* Attends the Yearly Meeting in London
+* proceeds towards Yorkshire, visiting several Quarterly and other meetings in the counties of Hertford, Warwick, Oxford, Nottingham, York, and Westmoreland; and thence again into Yorkshire, and to the city of York
+* Some instructive thoughts and observations
+* letters on divers subjects
+* Hears of the decease of William Hunt; some account of him
+* Sickness at York; and death there.
 
 On the 8th day of the sixth month, 1772, we landed at London;
 and I went straightway to the Yearly Meeting of ministers and elders,
@@ -227,6 +228,10 @@ I believe it safest for me to commit it to writing.
 The 30th day of the month.
 This morning I wrote a letter, in substance as follows;
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`Beloved friend,
 
 "`My mind is often affected as I pass along,
@@ -263,9 +268,13 @@ and feel a care, that we may be so separated to the Gospel of Christ,
 that those things which proceed from the spirit of this world,
 may have no place amongst us.
 
+[.signed-section-closing]
 "`Thy friend,
 
+[.signed-section-signature]
 "`John Woolman.`"
+
+--
 
 I rested a few days, in body and mind, with our friend Jane Crosfleld,
 who was once in America: was on the sixth day of the week, at Kendal in Westmoreland;
@@ -490,9 +499,8 @@ for if I was anxious for the event it would have been harder, but I am not,
 and my mind enjoys a perfect calm.`"
 
 In the night a young woman having given him something to drink, he said,
-"`My child thou seem very kind to me a poor creature,
-the Lord will reward thee for it.`"^
-footnote:[16 year old Sarah Tuke, later Sarah Grubb (wife of Robert Grubb).]
+"`My child thou seem very kind to me a poor creature, the Lord will reward thee for it.`"^
+footnote:[16 year old Sarah Tuke, later Sarah R. Grubb (wife of Robert Grubb).]
 Awhile after he cried out with great earnestness of spirit,
 "`Oh my Father! my Father!`" and soon after he said,
 "`Oh my Father! my Father! how comfortable art thou to my soul in this trying season.`"
@@ -584,7 +592,5 @@ which continued about half an hour, when seeming to awake,
 he breathed a few times with more difficulty, and expired without sigh, groan,
 or struggle.
 
-End of Journal
-
-[.asterism]
-'''
+[.the-end]
+END OF THE JOURNAL

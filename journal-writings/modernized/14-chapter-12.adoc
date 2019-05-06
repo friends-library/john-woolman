@@ -418,6 +418,9 @@ that when he is under suffering we may suffer with him;
 and never desire to rise up in dominion,
 but as he by the virtue of his own spirit may raise us.
 
+[.asterism]
+'''
+
 A few days after writing these considerations,
 our dear friend in the course of his religious visit, came to the city of York,
 and attended most of the sittings of the Quarterly Meeting there; but before it was over,
@@ -481,9 +484,9 @@ my will being wholly taken away;
 for if I was anxious for the event it would have been harder, but I am not,
 and my mind enjoys a perfect calm.`"
 
-In the night a young woman +++[+++Sarah Grubb, at sixteen years of age]
-having given him something to drink, he said,
-"`My child you seem very kind to me a poor creature, the Lord will reward you for it.`"
+In the night a young woman having given him something to drink, he said,
+"`My child you seem very kind to me a poor creature, the Lord will reward you for it.`"^
+footnote:[16 year old Sarah Tuke, later Sarah R. Grubb (wife of Robert Grubb).]
 Awhile after he cried out with great earnestness of spirit,
 "`Oh my Father! my Father!`" and soon after he said,
 "`Oh my Father! my Father! how comfortable are you to my soul in this trying season.`"

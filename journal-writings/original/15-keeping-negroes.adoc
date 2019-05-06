@@ -1,8 +1,10 @@
-== Considerations on the Keeping of Negroes; Recommended to the Professors of Christianity of Every Denomination.
+[#negroes, short="Considerations on the Keeping of Negroes"]
+== Considerations on the Keeping of Negroes --Part 1 / Recommended to the Professors of Christianity of Every Denomination
 
+[.chapter-subtitle--blurb]
 First Printed In The Year 1754.
 
-=== Introduction.
+=== Introduction
 
 Customs generally approved, and opinions received by youth from their superiors,
 become like the natural produce of a soil,
@@ -72,9 +74,12 @@ the candid amongst them may easily do the subject such further justice,
 as on an impartial inquiry it may appear to deserve;
 and such an inquiry I would earnestly recommend.
 
-=== Considerations, etc.
+=== Considerations on Keeping Negroes - Part I
 
-"`Forasmuch as ye did it to the least of these my brethren, ye did it unto me.`" Matt. 25:40.
+[quote.scripture, , Matt. 25:40]
+____
+"`Forasmuch as ye did it to the least of these my brethren, ye did it unto me.`"
+____
 
 As many times there are different motives to the same action;
 and one does that from a generous heart, which another does for selfish ends;
@@ -507,17 +512,20 @@ that they would consider their latter end!`"
 [.asterism]
 '''
 
-=== Considerations on the Keeping of Negroes; Recommended to the Professors of Christianity of Every Denomination.
+[.old-style]
+=== Considerations on the Keeping of Negroes - Part 2 / Recommended to the Professors of Christianity of Every Denomination
 
-Part the Second.
-
-First Printed in the Year 1762.
-
+[quote.scripture, , Deut. 1:17]
+____
 "`Ye shall not respect persons in judgment;
 but ye shall hear the small as well as the great:
-ye shall not be afraid of the face of man; for the judgment is God`'s.`" Duet. 1:17.
+ye shall not be afraid of the face of man; for the judgment is God`'s.`"
+____
 
-=== Preface.
+[.chapter-subtitle--blurb]
+First Printed in the Year 1762.
+
+=== Preface
 
 All our actions are of like nature with their root;
 and the Most High weigheth them more skillfully than men can weigh them one for another.
@@ -592,7 +600,7 @@ may see the relation of one thing to another, and the necessary tendency of each
 and hence it may be absolutely binding on them to desist from some parts of conduct,
 which some good men have been in.
 
-=== Considerations, etc.
+=== Considerations on the Keeping of Negroes - Part 2
 
 As some in most religious societies amongst the English are concerned
 in importing or purchasing the inhabitants of Africa as slaves;
@@ -1394,8 +1402,7 @@ as the two-mentioned ships had carried off of their natives.
 These unhappy English were in danger of being sacrificed to the memory of their friends,
 which some of their nation carried off.`"
 
-Extracts from a collection of voyages.
-Vol. 1.
+=== Extracts from a Collection of Voyages, Vol. I.
 
 The author, a popish missionary,
 speaking of his departing from the negro country to Brazil, saith,
@@ -1791,6 +1798,3 @@ that wickedness takes root and spreads wide amongst the inhabitants of a country
 there is real cause for sorrow to all such,
 whose love to mankind stands on a true principle,
 and who wisely consider the end and event of things.
-
-[.asterism]
-'''

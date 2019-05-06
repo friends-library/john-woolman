@@ -1,10 +1,14 @@
+[#harmony, short="Considerations on the Harmony of Mankind"]
 == Considerations on the True Harmony of Mankind; And How It Is To Be Maintained.
 
+[.chapter-subtitle--blurb]
 First Printed In The Year 1770.
 
+[quote.scripture, , Micah 5:7]
+____
 "`And the remnant of Jacob shall be in the midst of many people, as a dew from the Lord,
-as the showers upon the grass, that tarrieth not for man,
-nor waiteth for the sons of men.`" Micah 5:7.
+as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.`"
+____
 
 === Introduction
 
@@ -19,8 +23,6 @@ or unable to plead their own cause; and may continually keep in view,
 the spreading of the true and saving knowledge of God and of his son Jesus Christ,
 amongst our fellow creatures, which through his infinite love,
 some feel to be more precious than any other treasure.
-
-=== Considerations On True Harmony.
 
 [.old-style]
 === Chapter I / On serving the Lord in our outward employments.
@@ -651,7 +653,7 @@ and humbly follow His counsel,
 who alone is able to prepare the way for a true harmonious walking amongst mankind.
 
 [.old-style]
-=== Chapter IV / Divine admonitions.
+=== Chapter IV / Divine Admonitions.
 
 Such are the perfections of our heavenly Father,
 that in all the dispensations of his providence, it is our duty, "`in everything,

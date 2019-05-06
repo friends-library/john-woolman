@@ -1,12 +1,12 @@
 == Chapter XI.
 
-Preparing to visit Friends in England--Embarks at Chester, in company with Samuel Emlen,
-in a ship bound to London--His deep exercise,
-in observing the difficulties and hardships the common sailors are exposed
-to--Considerations on the dangers to which youth are exposed,
-in being trained to a sea-faring life;
-and its inconsistency with a pious education--Thoughts in a storm at sea;
-with many instructive contemplations on the voyage--Arrival at London.
+[.chapter-synopsis]
+* Preparing to visit Friends in England
+* Embarks at Chester, in company with Samuel Emlen, in a ship bound to London
+* His deep exercise, in observing the difficulties and hardships the common sailors are exposed to
+* Considerations on the dangers to which youth are exposed, in being trained to a sea-faring life; and its inconsistency with a pious education
+* Thoughts in a storm at sea; with many instructive contemplations on the voyage
+* Arrival at London.
 
 Having been some time under a religious concern to prepare for crossing the seas,
 in order to visit Friends in the Northern parts of England,
@@ -34,10 +34,17 @@ went first and opened to Samuel the feeling I had concerning it.
 
 My beloved friend wept when I spoke to him,
 and appeared glad that I had thought of going in the vessel with him,
-though my prospect was toward the steerage; and he offering to go with me,
-we went on board, first into the cabin, a commodious room, and then into the steerage,
-where we sat down on a chest, the sailors being busy about us;
-the owner of the ship came and sat down with us.
+though my prospect was toward the steerage;
+footnote:[The steerage is the lower deck of a ship, where the cargo was stored.
+Those who were too poor to travel on the upper decks with wealthier passengers,
+were stuffed into converted cargo spaces which provided
+the lowest cost and lowest class of travel.
+The living conditions on the steerage deck were often horrible,
+with no bathroom facilities besides pots and pans.
+These conditions caused many deaths due to unsanitary and cramped quarters.]
+and he offering to go with me, we went on board, first into the cabin, a commodious room,
+and then into the steerage, where we sat down on a chest,
+the sailors being busy about us; the owner of the ship came and sat down with us.
 
 Here my mind was turned toward Christ, the heavenly counsellor;
 and feeling at this time my own will subjected, my heart was contrite before him.

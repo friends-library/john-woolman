@@ -391,8 +391,7 @@ as follows:
 --
 
 [.letter-heading]
-To Friends at their Monthly Meeting at New Garden and Cane Creek,
-in North Carolina.
+To Friends at their Monthly Meeting at New Garden and Cane Creek, in North Carolina.
 
 [.salutation]
 Dear Friends,
