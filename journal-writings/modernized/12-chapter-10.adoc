@@ -54,12 +54,17 @@ He told me there was a Friend in town who was part owner of the said vessel;
 but I felt no inclination to speak with him, but returned home.
 A while after, I took leave of my family, and going to Philadelphia,
 had some weighty conversation with the first-mentioned owner, and showed him a writing,
-as follows: "`On the 25th day of the eleventh month, 1769.
+as follows:
+
+[.embedded-content-document.paper]
+--
+
+On the 25th day of the eleventh month, 1769.
 As an exercise, with respect to a visit to Barbados, has been weighty on my mind,
 I may express some of the trials which have attended me, under which,
 I have at times rejoiced that I have felt my own self-will subjected.
 
-"`Some years ago, I retailed rum, sugar and molasses, the fruits of the labor of slaves;
+Some years ago, I retailed rum, sugar and molasses, the fruits of the labor of slaves;
 but then had not much concern about them,
 save only that the rum might be used in moderation;
 nor was this concern so weightily attended to, as I now believe it ought to have been.
@@ -84,17 +89,17 @@ my heart has been often contrite and I have had a tender
 feeling of the temptations of my fellow creatures,
 laboring under those expensive customs distinguishable
 from the simplicity that there is in Christ, 2 Cor. 2:3.
-, and sometimes in the renewings of Gospel love,
+and sometimes in the renewings of Gospel love,
 I have been helped to minister to others.
 
-"`That which has so closely engaged my mind in seeking to the Lord for instruction is,
+That which has so closely engaged my mind in seeking to the Lord for instruction is,
 whether after so full information of the oppression which the
 slaves who raise the West India produce lie under,
 as I had in reading a caution and warning to Great Britain and her colonies,
 written by Anthony Benezet,
 it is right for me to take a passage in a vessel employed in the West India trade.
 
-"`To trade freely with oppressors,
+To trade freely with oppressors,
 and without laboring to dissuade from their unkind treatment,
 seek for gain by such traffic, tends, I believe,
 to make them more easy respecting their conduct, than they would be,
@@ -113,7 +118,7 @@ but having thought on the danger these men were exposed to,
 he considered this water as their blood,
 and his heart smote him that he could not drink it, but poured it out to the Lord.
 
-"`The oppression of the slaves which I have seen in several journeys southward,
+The oppression of the slaves which I have seen in several journeys southward,
 on this continent,
 and the report of their treatment in the West Indies has deeply affected me;
 and a care to live in the spirit of peace,
@@ -121,7 +126,7 @@ and minister just cause of offense to none of my fellow creatures, has,
 from time to time, livingly revived on my mind; and under this exercise,
 I have for some years past, declined to gratify my palate with those sugars.
 
-"`I do not censure my brethren in these things; but believe the Father of mercies,
+I do not censure my brethren in these things; but believe the Father of mercies,
 to whom all mankind by creation are equally related,
 has heard the groans of these oppressed people;
 and is preparing soon to have a tender feeling of their condition: and the trading in,
@@ -131,21 +136,21 @@ has appeared to be a subject which may yet require the more
 serious consideration of the humble followers of Christ,
 the prince of peace.
 
-"`After long and mournful exercise,
+After long and mournful exercise,
 I am now free to mention how things have opened in my mind,
 with desires that if it may please the Lord,
 further to open his will to any of his children in this matter,
 they may faithfully follow him in such further manifestation.
 
-"`The number of those who decline the use of the West India produce,
+The number of those who decline the use of the West India produce,
 on account of the hard usage of the slaves who raise it, appears small,
 even among people truly pious; and the labors in Christian love on that subject,
 of those who do, are not very extensive.
 
-"`Were the trade from this continent to the West Indies to be quite stopped at once,
+Were the trade from this continent to the West Indies to be quite stopped at once,
 I believe many there would suffer for lack of bread.
 
-"`Did we on this continent, and the inhabitants of the West Indies,
+Did we on this continent, and the inhabitants of the West Indies,
 generally dwell in pure righteousness, I believe a small trade between us might be right.
 Under these considerations,
 when the thoughts of wholly declining the use of trading vessels,
@@ -153,13 +158,15 @@ and of trying to hire a vessel to go in ballast have arisen in my mind,
 I have believed that the labors in Gospel love,
 yet bestowed in the cause of universal righteousness, are not arrived to that height.
 
-"`If the trade to the West Indies was no more than was consistent with pure wisdom,
+If the trade to the West Indies was no more than was consistent with pure wisdom,
 I believe the passage money would, for good reasons, be higher than it is now;
 and under deep exercise of mind,
 I have believed that I should not take the advantage of
 this great trade and small passage money;
 but as a testimony in favor of less trading,
-should pay more than is common for others to pay, if I go at this time.`"
+should pay more than is common for others to pay, if I go at this time.
+
+--
 
 The first mentioned owner having read the paper,
 expressed a willingness to go with me to the other owner; and we going,
