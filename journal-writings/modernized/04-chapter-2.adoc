@@ -276,6 +276,9 @@ at four times:
 [.embedded-content-document]
 --
 
+[.numbered-group]
+====
+
 [.numbered]
 I+++.+++ Oh! that my head were as waters, and mine eyes as a fountain of tears,
 that I might weep day and night, until acquainted with my God.
@@ -291,6 +294,8 @@ and that your grace may abound in me.
 [.numbered]
 IV. O Lord, that I may be acquainted with your presence,
 that I may be seasoned with your salt, that your grace may abound in me.
+
+====
 
 --
 
