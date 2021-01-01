@@ -1,5 +1,5 @@
 [#negroes, short="Considerations on the Keeping of Negroes"]
-== Considerations on the Keeping of Negroes - Part 1 / Recommended to the Professors of Christianity of Every Denomination
+== Considerations on the Keeping of Negroes &#8212; Part 1 / Recommended to the Professors of Christianity of Every Denomination
 
 [.chapter-subtitle--blurb]
 First Printed in the Year 1754
@@ -74,7 +74,7 @@ the candid among them may easily do the subject such further justice,
 as on an impartial inquiry it may appear to deserve;
 and such an inquiry I would earnestly recommend.
 
-=== Considerations on Keeping Negroes - Part I
+=== Considerations on Keeping Negroes &#8212; Part I
 
 [quote.scripture, , Matt. 25:40]
 ____
@@ -504,7 +504,7 @@ that they would consider their latter end!`"
 '''
 
 [.old-style]
-=== Considerations on the Keeping of Negroes - Part 2 / Recommended to the Professors of Christianity of Every Denomination
+=== Considerations on the Keeping of Negroes &#8212; Part 2 / Recommended to the Professors of Christianity of Every Denomination
 
 [quote.scripture, , Deut. 1:17]
 ____
@@ -591,7 +591,7 @@ may see the relation of one thing to another, and the necessary tendency of each
 and hence it may be absolutely binding on them to desist from some parts of conduct,
 which some good men have been in.
 
-=== Considerations on the Keeping of Negroes - Part 2
+=== Considerations on the Keeping of Negroes &#8212; Part 2
 
 As some in most religious societies among the English are concerned
 in importing or purchasing the inhabitants of Africa as slaves;
