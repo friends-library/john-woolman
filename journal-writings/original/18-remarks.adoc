@@ -347,7 +347,6 @@ some thousands are computed to die every year, in what is called the seasoning.
 
 [quote]
 ____
-
 +++[+++Note from the Editors of the original Friend`'s Library:
 In perusing the writings of this worthy man,
 the reader cannot fail to observe how large a portion of his attention was occupied
@@ -765,9 +764,7 @@ and should they even fall in with them, which was scarcely possible,
 there was not the smallest probability of finding any of the wretched negroes alive,
 for the casks being tight they must have perished from suffocation.
 See Papers laid on the table of the House of Commons--Report of Sir George
-Collier--Speech of Due de Boglie--Report of African Institution,
-vol.
-16.
+Collier--Speech of Due de Boglie--Report of African Institution, vol. 16.
 
 The schooner, Don Morales, master, arrived in the Rio Pongos,
 where she took on board two hundred slaves.
@@ -896,7 +893,6 @@ in no small degree in the guilt of the traffic,
 it being well ascertained that American vessels, American capital and American citizens,
 are employed in its prosecution.
 --End of Editor`'s note.]
-
 ____
 
 Thus it appears evident,
