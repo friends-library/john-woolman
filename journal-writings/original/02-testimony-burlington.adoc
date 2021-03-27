@@ -1,4 +1,4 @@
-[#testimony-burlington.style-blurb, short="Testimony of Burlington Friends"]
+[.style-blurb, short="Testimony of Burlington Friends"]
 == A Testimony of the Monthly Meeting of Friends, held in Burlington, the 1st day of the eighth month, in the year of our Lord, 1774, concerning our esteemed friend, John Woolman, deceased.
 
 He was born in Northampton, in the county of Burlington, and province of West New Jersey,

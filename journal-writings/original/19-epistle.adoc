@@ -1,4 +1,4 @@
-[#epistle, short="Epistle to the Quarterly and Monthly Meetings"]
+[short="Epistle to the Quarterly and Monthly Meetings"]
 == An Epistle to the Quarterly and Monthly Meetings of Friends.
 
 [.salutation]
