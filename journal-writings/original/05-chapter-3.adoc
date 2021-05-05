@@ -132,12 +132,11 @@ it was now a time of trouble on this continent;
 and an epistle to Friends went forth from our General Spring meeting,
 which I thought good to give a place in this journal.
 
-An Epistle from our General Spring meeting of ministers and elders,
-for Pennsylvania and New Jersey, held at Philadelphia, from the 20th of the third month,
-to the 1st of the fourth month, inclusive, 1755; To Friends on the continent of America.
-
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== An Epistle from our General Spring meeting of ministers and elders, for Pennsylvania and New Jersey, held at Philadelphia, from the 20th of the third month, to the 1st of the fourth month, inclusive, 1755; To Friends on the continent of America.
 
 [.salutation]
 Dear Friends,
@@ -222,7 +221,7 @@ are producing fruits disagreeable to the purity thereof,
 and trust to the strength of man to support ourselves therein,
 our confidence will be vain.
 For He, who removed the hedge from his vineyard, and gave it to be trodden under foot,
-by reason of the wild grapes it produced, Isaiah 5:5., remains unchangeable: and if,
+by reason of the wild grapes it produced, Isaiah 5:5, remains unchangeable: and if,
 for the chastisement of wickedness, and further promoting his own glory, he doth arise,
 even to shake terribly the earth, who then may oppose him, and prosper!
 
