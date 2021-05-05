@@ -398,6 +398,9 @@ uniting us together in his work.
 In the winter of this year, the small-pox being in our town, and many being inoculated,
 of which a few died, some things were opened in my mind, which I wrote as follows:
 
+[.embedded-content-document]
+--
+
 The more fully our lives are conformable to the will of God, the better it is for us.
 I have looked on the small-pox as a messenger from the Almighty,
 to be an assistant in the cause of virtue,
@@ -508,3 +511,5 @@ where that knowledge extended.
 But as life and health are his gifts, and not to be disposed of in our own wills,
 to take upon us, when in health, a distemper of which some die,
 requires great clearness of knowledge, that it is our duty to do so.
+
+--
